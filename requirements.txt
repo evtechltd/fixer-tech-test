@@ -1,0 +1,7 @@
+flask==1.1.1
+Flask-DotEnv==0.1.2
+Flask-Migrate==2.5.2
+Flask-SQLAlchemy==2.4.1
+pytest==5.3.3
+python-dateutil==2.8.1
+requests==2.22.0
